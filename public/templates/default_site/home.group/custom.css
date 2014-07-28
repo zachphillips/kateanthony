@@ -1,0 +1,25 @@
+body {
+	background: #ffffff;
+}
+
+
+/* This is for your text and text-background throughout the site */
+aside.details p.attribution, p.contactlink, aside.details p.click, aside.details_large p.caption, aside.details_large p.attribution {
+	color: #000000;
+	background: #ffffff;
+}
+
+/* This is the color of your text and links on the contact page */
+p, h1, a, a:visited {
+	color: #000000;
+}
+
+/* This is the hover color for your links - Starting out Hot Pink */
+a:hover {
+	color: #39b6ea;
+}
+
+p {
+	font-size: 14px;
+
+}
